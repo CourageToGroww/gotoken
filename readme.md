@@ -1,4 +1,4 @@
-# GoToken
+![gotoken hero](./assets/gotokenhero.png)
 
 GoToken is a specialized Go library for OAuth token management that automatically refreshes tokens every 59 minutes (before the standard 60-minute expiry) and provides them to HTTP requests without requiring additional authentication requests.
 
